@@ -21,7 +21,8 @@ An implementation of Generative Adversarial Nets
 
 ## Reference
 [Generative Adversarial Networks (Ian J. Goodfellow, et al.][paper1]
+
 [Common Problems  |  Generative Adversarial Networks][post1]
 
-[paper1] : https://arxiv.org/pdf/1406.2661.pdf
-[post1] : https://developers.google.com/machine-learning/gan/problems
+[paper1]: https://arxiv.org/pdf/1406.2661.pdf
+[post1]: https://developers.google.com/machine-learning/gan/problems
